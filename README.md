@@ -1,2 +1,2 @@
-# cursopython
-Material para el curso de python
+# pythonFundamental
+Exercises from the Fundamentals of Python Course
